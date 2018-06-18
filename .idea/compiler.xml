@@ -9,7 +9,12 @@
         <outputRelativeToContentRoot value="true" />
         <module name="example-api" />
         <module name="example-impl" />
+        <module name="external-service-api" />
+        <module name="external-service-impl" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="external-service" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

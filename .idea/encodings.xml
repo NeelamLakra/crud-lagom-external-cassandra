@@ -4,5 +4,8 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/example-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/example-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/external-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/external-service-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/external-service-impl" charset="UTF-8" />
   </component>
 </project>
