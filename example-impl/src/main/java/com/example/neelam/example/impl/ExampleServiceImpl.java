@@ -22,7 +22,7 @@ public class ExampleServiceImpl implements ExampleService {
     }
 
     @Override
-    public ServiceCall<Example, Example> postStudent() {
+    public ServiceCall<Example,Example> postStudent() {
         return req-> session.executeWrite("insert into user.user_detail(s_id, name, roll_no) Values(?,?,?)", req.getSid(),req.getName(),req.getRollno())
     .thenApply(result-> req);
     }
