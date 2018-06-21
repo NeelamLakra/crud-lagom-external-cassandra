@@ -39,6 +39,7 @@
             <artifactId>lagom-javadsl-testkit_${scala.binary.version}</artifactId>
             <scope>test</scope>
         </dependency>
+
     </dependencies>
 
 

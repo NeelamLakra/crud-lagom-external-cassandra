@@ -2,19 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7e19df5-66e6-4cba-834c-18008b339d52" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/example-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-impl/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-impl/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-impl/target/surefire-reports/TEST-com.example.neelam.example.impl.ExampleServiceImplTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-impl/target/surefire-reports/com.example.neelam.example.impl.ExampleServiceImplTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-impl/target/test-classes/com/example/neelam/example/impl/ExampleServiceImplTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external-service-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external-service-impl/src/main/java/com/example/neelam/external/service/impl/ExternalMockedServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external-service-impl/src/test/java/com/example/neelam/external/service/impl/MyServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external-service-impl/target/classes/com/example/neelam/external/service/impl/ExternalMockedServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external-service-impl/target/test-classes/com/example/neelam/external/service/impl/MyServiceImplTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example-impl/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example-impl/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example-impl/target/surefire-reports/TEST-com.example.neelam.example.impl.ExampleServiceImplTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example-impl/target/surefire-reports/com.example.neelam.example.impl.ExampleServiceImplTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example-impl/target/test-classes/com/example/neelam/example/impl/ExampleServiceImplTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/external-service-api/src/main/java/com/example/neelam/external/service/api/MyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/external-service-api/src/main/java/com/example/neelam/external/service/api/MyService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/external-service-api/target/classes/com/example/neelam/external/service/api/MyService.class" beforeDir="false" afterPath="$PROJECT_DIR$/external-service-api/target/classes/com/example/neelam/external/service/api/MyService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/external-service-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/external-service-impl/src/main/java/com/example/neelam/external/service/impl/MyServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/external-service-impl/src/main/java/com/example/neelam/external/service/impl/MyServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/external-service-impl/target/classes/com/example/neelam/external/service/impl/MyServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/external-service-impl/target/classes/com/example/neelam/external/service/impl/MyServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/external-service-impl/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-impl/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example-impl/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example-impl/src/test/java/com/example/neelam/example/impl/ExampleServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/example-impl/src/test/java/com/example/neelam/example/impl/ExampleServiceImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external-service-api/src/main/java/com/example/neelam/external/service/api/ExternalJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/external-service-api/src/main/java/com/example/neelam/external/service/api/ExternalJson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external-service-api/target/classes/com/example/neelam/external/service/api/ExternalJson$ExternalJsonBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/external-service-api/target/classes/com/example/neelam/external/service/api/ExternalJson$ExternalJsonBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external-service-api/target/classes/com/example/neelam/external/service/api/ExternalJson.class" beforeDir="false" afterPath="$PROJECT_DIR$/external-service-api/target/classes/com/example/neelam/external/service/api/ExternalJson.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external-service-impl/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/external-service-impl/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external-service-impl/target/classes/com/example/neelam/external/service/impl/MyServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/external-service-impl/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/external-service-impl/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external-service-impl/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/external-service-impl/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,10 +41,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ExternalServiceModule.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/external-service-impl/src/main/java/com/example/neelam/external/service/impl/ExternalServiceModule.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExampleServiceImplTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example-impl/src/test/java/com/example/neelam/example/impl/ExampleServiceImplTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="20" column="49" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="MyService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/external-service-api/src/main/java/com/example/neelam/external/service/api/MyService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
+            <state relative-caret-position="171">
               <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -44,11 +77,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExternalServiceModule.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/external-service-impl/src/main/java/com/example/neelam/external/service/impl/ExternalServiceModule.java">
+      <file leaf-file-name="ExternalJson.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/external-service-api/src/main/java/com/example/neelam/external/service/api/ExternalJson.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/external-service-impl/src/main/java/com/example/neelam/external/service/impl/MyServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -56,14 +98,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Example.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/example-api/src/main/java/com/example/neelam/example/api/Example.java">
+      <file leaf-file-name="ExternalService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/external-service-api/src/main/java/com/example/neelam/external/service/api/ExternalService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="446">
+              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/external-service-impl/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1342">
+              <caret line="61" selection-start-line="61" selection-end-line="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyServiceImplTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/external-service-impl/src/test/java/com/example/neelam/external/service/impl/MyServiceImplTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-704">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -71,68 +131,20 @@
       <file leaf-file-name="ExampleServiceImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/example-impl/src/main/java/com/example/neelam/example/impl/ExampleServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+            <state relative-caret-position="44">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExternalMockedServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/external-service-impl/src/main/java/com/example/neelam/external/service/impl/ExternalMockedServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyServiceImpl.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/external-service-impl/src/main/java/com/example/neelam/external/service/impl/MyServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="29" column="72" selection-start-line="29" selection-start-column="72" selection-end-line="29" selection-end-column="72" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CompletableFuture.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/concurrent/CompletableFuture.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40634">
-              <caret line="1914" column="7" selection-start-line="1914" selection-start-column="7" selection-end-line="1914" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CompletionStage.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/concurrent/CompletionStage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16258">
-              <caret line="777" column="32" selection-start-line="777" selection-start-column="32" selection-end-line="777" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExternalJson.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/external-service-api/src/main/java/com/example/neelam/external/service/api/ExternalJson.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.conf" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/external-service-impl/src/main/resources/application.conf">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="24" selection-start-column="24" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.conf" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/example-impl/src/main/resources/application.conf">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -154,26 +166,29 @@
       <list>
         <option value="$PROJECT_DIR$/example-impl/src/main/java/com/example/neelam/example/impl/ExampleModule.java" />
         <option value="$PROJECT_DIR$/example-api/pom.xml" />
-        <option value="$PROJECT_DIR$/example-impl/pom.xml" />
         <option value="$PROJECT_DIR$/example-impl/src/main/resources/application.conf" />
         <option value="$PROJECT_DIR$/external-service-api/src/main/java/ExternalService.java" />
         <option value="$PROJECT_DIR$/example-api/src/main/java/com/example/neelam/example/api/Example.java" />
         <option value="$PROJECT_DIR$/external-service-api/pom.xml" />
         <option value="$PROJECT_DIR$/external-service-api/src/main/java/com/example/neelam/external/service/api/Example.java" />
-        <option value="$PROJECT_DIR$/external-service-impl/pom.xml" />
-        <option value="$PROJECT_DIR$/external-service-api/src/main/java/com/example/neelam/external/service/api/ExternalJson.java" />
         <option value="$PROJECT_DIR$/external-service-impl/src/main/java/MyServiceImpl.java" />
         <option value="$PROJECT_DIR$/external-service-impl/src/main/java/ExternalServiceModule.java" />
         <option value="$PROJECT_DIR$/external-service-impl/src/main/resources/application.conf" />
         <option value="$PROJECT_DIR$/external-service-impl/src/main/java/com/example/neelam/external/service/impl/ExternalServiceModule.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/external-service-api/src/main/java/com/example/neelam/external/service/api/ExternalService.java" />
         <option value="$PROJECT_DIR$/example-impl/src/test/java/ExampleServiceImplTest.java" />
         <option value="$PROJECT_DIR$/example-impl/src/main/java/com/example/neelam/example/impl/ExampleServiceImpl.java" />
         <option value="$PROJECT_DIR$/example-api/src/main/java/com/example/neelam/example/api/ExampleService.java" />
-        <option value="$PROJECT_DIR$/example-impl/src/test/java/com/example/neelam/example/impl/ExampleServiceImplTest.java" />
-        <option value="$PROJECT_DIR$/external-service-impl/src/main/java/com/example/neelam/external/service/impl/MyServiceImpl.java" />
         <option value="$PROJECT_DIR$/external-service-api/src/main/java/com/example/neelam/external/service/api/MyService.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/example-impl/pom.xml" />
+        <option value="$PROJECT_DIR$/external-service-impl/pom.xml" />
+        <option value="$PROJECT_DIR$/example-impl/src/test/java/com/example/neelam/example/impl/ExampleServiceImplTest.java" />
+        <option value="$PROJECT_DIR$/example-impl/src/main/java/com/example/neelam/example/impl/ExternalServiceImpl.java" />
+        <option value="$PROJECT_DIR$/external-service-impl/src/main/java/com/example/neelam/external/service/impl/MyServiceImpl.java" />
+        <option value="$PROJECT_DIR$/external-service-impl/src/main/java/com/example/neelam/external/service/impl/ExternalMockedServiceImpl.java" />
+        <option value="$PROJECT_DIR$/external-service-api/src/main/java/com/example/neelam/external/service/api/ExternalJson.java" />
+        <option value="$PROJECT_DIR$/external-service-impl/src/test/java/com/example/neelam/external/service/impl/MyServiceImplTest.java" />
       </list>
     </option>
   </component>
@@ -196,8 +211,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -392,11 +408,27 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="example-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="example-project" type="462c0819:PsiDirectoryNode" />
+              <item name="external-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="example-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="example-project" type="462c0819:PsiDirectoryNode" />
+              <item name="external-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -422,7 +454,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ExampleServiceImplTest.getStudent">
+  <component name="RunManager" selected="JUnit.MyServiceImplTest.invokeExternal">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -495,6 +527,29 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="MyServiceImplTest.invokeExternal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="external-service-impl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.neelam.external.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.example.neelam.external.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.example.neelam.external.service.impl.MyServiceImplTest" />
+      <option name="METHOD_NAME" value="invokeExternal" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -537,9 +592,11 @@
       <item itemvalue="JUnit.ExampleServiceImplTest.getStudent" />
       <item itemvalue="JUnit.ExampleServiceImplTest.removeStudent" />
       <item itemvalue="JUnit.ExampleServiceImplTest.postStudent" />
+      <item itemvalue="JUnit.MyServiceImplTest.invokeExternal" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MyServiceImplTest.invokeExternal" />
         <item itemvalue="JUnit.ExampleServiceImplTest.getStudent" />
         <item itemvalue="JUnit.ExampleServiceImplTest.postStudent" />
         <item itemvalue="JUnit.ExampleServiceImplTest.removeStudent" />
@@ -567,9 +624,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ExampleServiceImplTest_getStudent - 2018.06.19 at 13h 59m 15s.xml">
-      <configuration name="ExampleServiceImplTest.getStudent" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ExampleServiceImplTest_getStudent - 2018.06.19 at 13h 59m 57s.xml">
       <configuration name="ExampleServiceImplTest.getStudent" configurationId="JUnit" />
     </history-entry>
@@ -597,13 +651,17 @@
     <history-entry file="ExampleServiceImplTest_getStudent - 2018.06.19 at 14h 59m 26s.xml">
       <configuration name="ExampleServiceImplTest.getStudent" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MyServiceImplTest_invokeExternal - 2018.06.21 at 10h 51m 03s.xml">
+      <configuration name="MyServiceImplTest.invokeExternal" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
+    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32917318" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -614,7 +672,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.6021841" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24860558" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23904383" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -624,7 +682,6 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32917318" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -636,12 +693,12 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23266932" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -651,7 +708,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.5303266" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -663,30 +720,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/example-impl/src/main/java/com/example/neelam/example/impl/ExampleServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example-api/src/main/java/com/example/neelam/example/api/Example.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example-impl/src/main/resources/application.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="748">
@@ -914,64 +947,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example-impl/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="41" column="19" selection-end-line="56" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/external-service-impl/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/external-service-api/src/main/java/com/example/neelam/external/service/api/ExternalService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="20" column="62" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example-api/src/main/java/com/example/neelam/example/api/ExampleService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example-impl/src/test/java/com/example/neelam/example/impl/ExampleServiceImplTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1276">
-          <caret line="73" selection-start-line="73" selection-end-line="73" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example-impl/src/main/java/com/example/neelam/example/impl/ExampleServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/concurrent/CompletionStage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="16258">
@@ -996,30 +971,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/external-service-api/src/main/java/com/example/neelam/external/service/api/ExternalJson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/external-service-api/src/main/java/com/example/neelam/external/service/api/MyService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/external-service-impl/src/main/resources/application.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" selection-start-column="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/example-impl/src/main/resources/application.conf">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -1027,10 +978,79 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/external-service-impl/src/main/resources/application.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2200">
+          <caret line="100" column="25" selection-start-line="89" selection-start-column="10" selection-end-line="100" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example-api/src/main/java/com/example/neelam/example/api/ExampleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example-impl/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/external-service-impl/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1342">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/external-service-impl/src/main/java/com/example/neelam/external/service/impl/ExternalServiceModule.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
+        <state relative-caret-position="88">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example-impl/src/main/java/com/example/neelam/example/impl/ExternalServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/external-service-api/src/main/java/com/example/neelam/external/service/api/ExternalService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example-impl/src/main/java/com/example/neelam/example/impl/ExampleServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example-impl/src/test/java/com/example/neelam/example/impl/ExampleServiceImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="20" column="49" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1039,11 +1059,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/external-service-impl/src/main/java/com/example/neelam/external/service/impl/MyServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="29" column="72" selection-start-line="29" selection-start-column="72" selection-end-line="29" selection-end-column="72" />
+        <state relative-caret-position="154">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/external-service-impl/src/main/java/com/example/neelam/external/service/impl/ExternalMockedServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/external-service-api/src/main/java/com/example/neelam/external/service/api/MyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/external-service-api/src/main/java/com/example/neelam/external/service/api/ExternalJson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/external-service-impl/src/test/java/com/example/neelam/external/service/impl/MyServiceImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-704">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
         </state>
       </provider>
     </entry>

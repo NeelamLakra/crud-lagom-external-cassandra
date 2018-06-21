@@ -6,19 +6,18 @@ import com.lightbend.lagom.javadsl.persistence.cassandra.CassandraSession;
 import com.lightbend.lagom.javadsl.testkit.ServiceTest;
 import static com.lightbend.lagom.javadsl.testkit.ServiceTest.defaultSetup;
 import static com.lightbend.lagom.javadsl.testkit.ServiceTest.startServer;
+
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 import static org.junit.Assert.assertEquals;
 
 
 
-public class ExampleServiceImplTest {
+public class ExampleServiceImplTest{
     private static ServiceTest.TestServer server;
    
     @BeforeClass
@@ -57,6 +56,7 @@ public class ExampleServiceImplTest {
         }
     }
     
+    
     @Test
     public void postStudent() throws Exception{
         ExampleService exampleService = server.client(ExampleService.class);
@@ -65,7 +65,7 @@ public class ExampleServiceImplTest {
                 .toCompletableFuture().get(5,TimeUnit.SECONDS);
         System.out.println(newList);
         assertEquals("neel",newList.getName());
-        
+
     }
     
     @Test
